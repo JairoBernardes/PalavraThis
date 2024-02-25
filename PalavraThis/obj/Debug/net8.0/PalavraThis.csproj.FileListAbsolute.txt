@@ -1,0 +1,14 @@
+C:\tmp\projetos\ConstrutThisSobregaEncapsu\PalavraThis\PalavraThis\bin\Debug\net8.0\PalavraThis.exe
+C:\tmp\projetos\ConstrutThisSobregaEncapsu\PalavraThis\PalavraThis\bin\Debug\net8.0\PalavraThis.deps.json
+C:\tmp\projetos\ConstrutThisSobregaEncapsu\PalavraThis\PalavraThis\bin\Debug\net8.0\PalavraThis.runtimeconfig.json
+C:\tmp\projetos\ConstrutThisSobregaEncapsu\PalavraThis\PalavraThis\bin\Debug\net8.0\PalavraThis.dll
+C:\tmp\projetos\ConstrutThisSobregaEncapsu\PalavraThis\PalavraThis\bin\Debug\net8.0\PalavraThis.pdb
+C:\tmp\projetos\ConstrutThisSobregaEncapsu\PalavraThis\PalavraThis\obj\Debug\net8.0\PalavraThis.GeneratedMSBuildEditorConfig.editorconfig
+C:\tmp\projetos\ConstrutThisSobregaEncapsu\PalavraThis\PalavraThis\obj\Debug\net8.0\PalavraThis.AssemblyInfoInputs.cache
+C:\tmp\projetos\ConstrutThisSobregaEncapsu\PalavraThis\PalavraThis\obj\Debug\net8.0\PalavraThis.AssemblyInfo.cs
+C:\tmp\projetos\ConstrutThisSobregaEncapsu\PalavraThis\PalavraThis\obj\Debug\net8.0\PalavraThis.csproj.CoreCompileInputs.cache
+C:\tmp\projetos\ConstrutThisSobregaEncapsu\PalavraThis\PalavraThis\obj\Debug\net8.0\PalavraThis.dll
+C:\tmp\projetos\ConstrutThisSobregaEncapsu\PalavraThis\PalavraThis\obj\Debug\net8.0\refint\PalavraThis.dll
+C:\tmp\projetos\ConstrutThisSobregaEncapsu\PalavraThis\PalavraThis\obj\Debug\net8.0\PalavraThis.pdb
+C:\tmp\projetos\ConstrutThisSobregaEncapsu\PalavraThis\PalavraThis\obj\Debug\net8.0\PalavraThis.genruntimeconfig.cache
+C:\tmp\projetos\ConstrutThisSobregaEncapsu\PalavraThis\PalavraThis\obj\Debug\net8.0\ref\PalavraThis.dll
