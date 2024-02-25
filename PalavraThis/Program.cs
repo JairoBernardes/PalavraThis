@@ -4,9 +4,12 @@ using System;
 using System.Globalization;
 using System.Net.Http.Headers;
 
-namespace PalavraThis {
-    class Program {
-        static void Main(string[] args) {
+namespace PalavraThis
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
 
             Console.WriteLine("Entre com os dados do produto:");
             Console.Write("Nome: ");
@@ -19,11 +22,13 @@ namespace PalavraThis {
 
             Produto p2 = new Produto();
 
-            Produto p3 = new Produto { //sintaxe alternativa
-            //    Nome = "TV",
-            //    Preco = 500.00,
-            //    Quantidade = 20
+            Produto p3 = new Produto
+            { //sintaxe alternativa
+                Nome = "TV",
+                Preco = 900.00,
+                Quantidade = 20
             };
+
 
             Console.WriteLine("Dados do produto: " + p3);
             Console.WriteLine();
