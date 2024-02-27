@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jairo\\projetos\\ConstrutThisSobregaEncapsu\\PalavraThis\\PalavraThis\\PalavraThis.csproj": {}
+    "C:\\Users\\Jairo\\projetos\\PalavraThis\\PalavraThis\\PalavraThis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jairo\\projetos\\ConstrutThisSobregaEncapsu\\PalavraThis\\PalavraThis\\PalavraThis.csproj": {
+    "C:\\Users\\Jairo\\projetos\\PalavraThis\\PalavraThis\\PalavraThis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jairo\\projetos\\ConstrutThisSobregaEncapsu\\PalavraThis\\PalavraThis\\PalavraThis.csproj",
+        "projectUniqueName": "C:\\Users\\Jairo\\projetos\\PalavraThis\\PalavraThis\\PalavraThis.csproj",
         "projectName": "PalavraThis",
-        "projectPath": "C:\\Users\\Jairo\\projetos\\ConstrutThisSobregaEncapsu\\PalavraThis\\PalavraThis\\PalavraThis.csproj",
+        "projectPath": "C:\\Users\\Jairo\\projetos\\PalavraThis\\PalavraThis\\PalavraThis.csproj",
         "packagesPath": "C:\\Users\\Jairo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jairo\\projetos\\ConstrutThisSobregaEncapsu\\PalavraThis\\PalavraThis\\obj\\",
+        "outputPath": "C:\\Users\\Jairo\\projetos\\PalavraThis\\PalavraThis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jairo\\AppData\\Roaming\\NuGet\\NuGet.Config"
